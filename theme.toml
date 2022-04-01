@@ -1,0 +1,35 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Hugo Theme Rosetta"
+license = "MIT"
+licenselink = "https://github.com/eallion/hugo-theme-rosetta/blob/master/LICENSE"
+description = ""
+homepage = "https://rosetta.eallion.vercel.app/"
+tags = [
+  "blog",
+  "clean",
+  "customizable",
+  "dark",
+  "highlighting",
+  "light",
+  "minimal",
+  "monochromatic",
+  "multilingual",
+  "personal",
+  "responsive",
+  "simple",
+  "technical",
+]
+features = ["blog", "shortcode", "syntax Highlighting"]
+min_version = "0.96.0"
+
+[author]
+  name = "Charles Chin"
+  homepage = "https://eallion.com/"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
